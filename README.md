@@ -7,7 +7,7 @@ I am a frontend developer studying at **Jensen Yrkeshögskola (Sweden)** with ha
 I enjoy building **user-friendly, responsive interfaces** and working with clean, structured code.
 
 I am currently looking for **LIA2 internship** in **Frontend / React**  
-📅 **February 2 – April 24, 2026 (12 weeks)**
+📅 **February 2 - April 24, 2026 (12 weeks)**
 
 ## 🛠 Tech Stack
 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Vite, UI/UX  
